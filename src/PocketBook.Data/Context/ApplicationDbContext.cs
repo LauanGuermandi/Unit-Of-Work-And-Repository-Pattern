@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PocketBook.Domain;
+using PocketBook.Domain.Entities;
 
 namespace PocketBook.Data.Context
 {
